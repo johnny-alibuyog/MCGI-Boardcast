@@ -69,7 +69,7 @@
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <StackPanel Margin="0,0,0,27.5">
-                                    <TextBlock TextWrapping="Wrap" FontSize="17" LineHeight="27" Text="{Binding Content}" Style="{ThemeResource ListViewItemTextBlockStyle}">
+                                    <TextBlock TextWrapping="Wrap" FontSize="23" LineHeight="27" Text="{Binding Content}" Style="{ThemeResource ListViewItemTextBlockStyle}">
                                         Sample text here. Sample text here.
                                      Sample text here. Sample text here. Sample text here. Sample text here. Sample text here.</TextBlock>
                                 </StackPanel>
